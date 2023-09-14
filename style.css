@@ -1,0 +1,30 @@
+.pink-navbar {
+    background-color: hotpink;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+.secondnav
+{
+    background-color: hotpink;
+}
+
+.left-content {
+    float: left; 
+    width: 50%; 
+}
+
+.right-content {
+    float: right;
+    width: 50%; 
+    text-align: right; 
+}
+
+.image-column {
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50vh;
+    background-size: cover;
+    
+}
+
+
+
